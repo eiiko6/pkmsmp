@@ -410,10 +410,6 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "3ec4f9263c72988bc6490c7d488d5d576c9ebbc4c614f683de3a4772e8e89f0c"
 
 [[files]]
-file = "config/yosbr/config/notenoughanimations.json"
-hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
-
-[[files]]
 file = "config/yosbr/config/panorama_screens/settings.json"
 hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
 
