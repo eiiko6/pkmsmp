@@ -768,6 +768,11 @@ hash = "ac3f2a82877bed69d8551fefc8b6fb0efb23882bc414c72282f54e7ace1fab69"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "e8ae1d4ae7c50aee8eb0e5b51a05fac9af4508108e38062ff74c6aab564c5a66"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "d1cf066c3294fa73c23c854d3333dc1ccaf60a1ae2d23e5f0b3b914654d4c908"
 metafile = true
@@ -790,6 +795,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "7a00dfa3a185736ea12d6e7d1c8f960f779dfab6785b876368b2aaa11e629bb2"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "f85bbc82f8801b099dc53b89d5b52f9b4b9f364b746290c26f6e5447aaaa1db7"
 metafile = true
 
 [[files]]
@@ -887,6 +897,16 @@ hash = "c35d95d747f35a7684218186ff8aa4510a1ddd58de18e50aa608cf36442e7cf9"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "73ff0fe5f14d93f8cc58314271b9eba7d9eb8e89dea84ce665488c6d1f4dd339"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "c888c10600e3ef0cc02cfabe1a984aa84d8a11d01ac37539121f6348c8ac2937"
+metafile = true
+
+[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "b03866e0e7d49879e8cebe4b36d8135ce8a4a36eb49c953416d5e013b690a099"
 metafile = true
@@ -926,6 +946,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "5d6abaadd99d9e779849c989017e752b93b5ad023d0a51ff84628c4bc22377fb"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "b76e61a36a6439c24014a5bcf50313455a0e7c04879246c9e7693bddab0684c3"
 metafile = true
 
 [[files]]
