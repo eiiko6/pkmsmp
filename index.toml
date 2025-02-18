@@ -411,7 +411,7 @@ hash = "3ec4f9263c72988bc6490c7d488d5d576c9ebbc4c614f683de3a4772e8e89f0c"
 
 [[files]]
 file = "config/yosbr/config/panorama_screens/settings.json"
-hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
+hash = "fdcbb54def164af45ed1784a4687e36c02fff6530a513b183643a2de9e07cbb0"
 
 [[files]]
 file = "config/yosbr/config/particlerain.json5"
@@ -805,11 +805,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "db008972e1fc5d27d37ab4dc17357d592fb5d536da29f2a29d1a216bc93d4e44"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "87cad82f4f0fda3d4afaa9d53a5cfe0893cd911bdd13dd54b26057e4b16d1a59"
 metafile = true
 
 [[files]]
